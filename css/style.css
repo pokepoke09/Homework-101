@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@200&family=Metal+Mania&display=swap ');
+/* @font-face {
+    font-family: anything;
+    src: url(link url font from font folder here);
+
+} */
+
+
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+body{              
+    background-image: url('../media/images/rain.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+.test {
+    color: rgb(255, 255, 255);
+    /* text-decoration: line-through; */
+}
+
+.Helloworld {
+    background-color: rgba(0, 0, 0, 0.697);
+    font-family:'Jost', sans-serif;
+    font-size: 45px;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+}  
+
+.class {
+    color:rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.697);
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+    width: 200px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.box {
+    color:rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.697);
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+    width: 1100px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.bio {
+    color:rgb(255, 255, 255);
+    background-color: rgba(10, 52, 62, 0.493);
+    font-size: 17px;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.katatonia { 
+    max-width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.hearts {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
